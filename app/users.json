@@ -1,1 +1,1 @@
-[{"name":"abcdefgh","password":"12345","hashed_password":"$2a$10$HF97BLUv172gwV.8/M1ztOGF7.bdmrdfI6yGo8PpK84b4qOF1z9Ue","tickets_booked":[],"user_id":"ec96bcf0-5cd8-4609-8880-40e826661c58"}]
+[{"name":"abcdefgh","password":"12345","hashed_password":"$2a$10$HF97BLUv172gwV.8/M1ztOGF7.bdmrdfI6yGo8PpK84b4qOF1z9Ue","tickets_booked":[],"user_id":"ec96bcf0-5cd8-4609-8880-40e826661c58"},{"name":"vaibhv","password":"13456","hashed_password":"$2a$10$jCQ.46n1m6x1CTQEWmAcmOtRN4tB9MFDWPR895IPT8NyAGMhbW1lC","tickets_booked":[],"user_id":"4281b8c0-c7fa-44c5-b43e-ccaf06117f42"}]
